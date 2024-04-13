@@ -1,1 +1,1 @@
-# Air-Chat---A-worldwide-chatting-app
+# AirChat-A-worldwide-chatting-app
