@@ -35,6 +35,6 @@ To start using AirChat on your Android device, follow these steps:
 
 ## Contributors
 - [Prathamesh Mahamuni](https://www.linkedin.com/in/prathameshmahamuni/) - Project Lead & Developer
-- [Shreerag Kurup](link-to-contributor-profile) - Android Developer
+- [Shreerag Kurup](https://www.linkedin.com/in/shreerag-kurup-552406292/) - Android Developer
 - [Niraj Bhagat](link-to-contributor-profile) - Backend Developer
 - [Rohit Katkar](link-to-contributor-profile) - UI/UX Designer
