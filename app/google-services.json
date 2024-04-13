@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912665973007",
+    "project_id": "airchat-9948b",
+    "storage_bucket": "airchat-9948b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912665973007:android:99c584862d8c2393326e7a",
+        "android_client_info": {
+          "package_name": "com.example.airchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912665973007-78aajor5uo8h6kg06mlh4qm35e0mlmjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2T70rzYauYfY56QFZnWksgXYoxsLsGmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912665973007-78aajor5uo8h6kg06mlh4qm35e0mlmjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
